@@ -12,3 +12,8 @@ float3 = 1.3
 
 bool1 = true
 bool2 = false
+
+
+string1 = "goodbye"
+string2 = "later"
+string3 = "bye"
