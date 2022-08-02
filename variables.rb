@@ -17,3 +17,7 @@ bool2 = false
 string1 = "goodbye"
 string2 = "later"
 string3 = "bye"
+
+puts string1
+puts string2
+puts string3
